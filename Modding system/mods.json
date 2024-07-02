@@ -1,0 +1,9 @@
+{
+	"mods": [
+		{
+			"name": "MyMod",
+			"path": "MyMod.dll",
+			"ver": "0.1-alpha"
+		}
+	]
+}
