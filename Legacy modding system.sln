@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Modding system", "Modding system\Modding system.vcxproj", "{37003097-95BC-4016-B488-99102579C670}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Modding system", "Legacy modding system\Legacy modding system.vcxproj", "{37003097-95BC-4016-B488-99102579C670}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyMod", "MyMod\MyMod.vcxproj", "{30EA12B7-D6BF-481E-B01F-BE77CDA7666E}"
 EndProject
